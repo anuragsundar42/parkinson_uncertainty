@@ -22,4 +22,5 @@ The "thesis_and_slides" folder contains the final thesis and the presentation sl
 
 NOTE: The code in the .ipynb files are just for displaying the outcome of this project. Although most of these .ipynb files may be executible, they have not been setup to run in a generalized platform and might have some missing data and references.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++THANK YOU++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Ignore the .DS_Store files. They are just temporary Mac files.
+++++++++++++++++++++++THANK YOU++++++++++++++++++++++++++
