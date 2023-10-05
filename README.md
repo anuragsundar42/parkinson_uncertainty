@@ -1,5 +1,5 @@
 # parkinson_uncertainty
-## Title: Clinically useful eary detection of Parkinson's disease using uncertainty-aware techiniques with CNNs
+## Title: Clinically useful early detection of Parkinson's disease using uncertainty-aware techiniques with CNNs
 This repository is dedicated to a Master Thesis project for developing an uncertainty-aware model for detection of Parkinson's disease.
 
 ## Data Source
